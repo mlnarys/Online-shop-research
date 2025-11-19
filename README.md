@@ -153,6 +153,7 @@
 
 ```
 📁 project/
+│── .gitignore  
 │── README.md
 │── games.csv
 │── Online shop research.ipynb
